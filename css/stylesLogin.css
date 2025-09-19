@@ -1,0 +1,66 @@
+/* Fundo global e textos */
+body {
+    min-height: 100vh;
+    color: #fff;
+    background: 
+      linear-gradient(135deg, rgba(58, 134, 255, 0.6), rgba(255, 158, 1, 0.6)),
+      url("https://images.unsplash.com/photo-1646651105469-bf1bdd125bdf?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D") 
+      center/cover no-repeat fixed;
+  }
+  
+  /* Card escuro para contraste */
+  .card {
+    background-color: rgba(0, 0, 0, 0.6); /* deixa legível no fundo */
+    color: #fff;
+    border: none;
+    border-radius: 1rem;
+  }
+  
+  /* Labels */
+  label.form-label {
+    color: #fff;
+  }
+  
+  /* Inputs e textareas */
+  input.form-control {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #fff;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+  
+  input.form-control:focus {
+    background-color: rgba(255, 255, 255, 0.2);
+    color: #fff;
+    border-color: var(--primary);
+    box-shadow: 0 0 5px var(--primary);
+  }
+  
+  /* Placeholder */
+  input::placeholder {
+    color: rgba(255, 255, 255, 0.7);
+  }
+  
+  /* Botões */
+  .btn-primary {
+    background-color: var(--primary);
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #2a75e6;
+  }
+  
+  /* Mensagens de erro */
+  .is-invalid {
+    border-color: #ff006e !important;
+    background-color: rgba(255, 0, 110, 0.1);
+    color: #fff;
+  }
+  
+  /* Alerts dentro do card */
+  .alert {
+    background-color: rgba(255, 0, 110, 0.2);
+    color: #fff;
+    border: none;
+  }
+  

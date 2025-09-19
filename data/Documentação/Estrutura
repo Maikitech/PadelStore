@@ -1,0 +1,15 @@
+ecommerce/
+├── index.html
+├── login.html
+├── produtos.html
+├── css/
+│ ├── style.css
+│ └── auth.css
+├── js/
+│ ├── auth.js
+│ ├── products.js
+│ ├── cart.js
+│ └── main.js
+├── data/
+│ └── produtos.json
+└── README.md

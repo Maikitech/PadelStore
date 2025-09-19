@@ -1,0 +1,21 @@
+.auth-container {
+    background: var(--light);
+  }
+  
+  .auth-box {
+    width: 360px;
+  }
+  
+  #authTabs .nav-link {
+    cursor: pointer;
+  }
+  
+  #login-form .invalid-feedback,
+  #register-form .invalid-feedback {
+    display: block;
+  }
+  
+  .is-invalid {
+    border-color: #dc3545 !important;
+  }
+  

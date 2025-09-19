@@ -1,0 +1,408 @@
+[
+    {
+      "id": 1,
+      "nome": "Raquete Bullpadel Hack 03",
+      "descricao": "Raquete de alto rendimento para jogadores avançados. Carbono 100% e núcleo de EVA.",
+      "preco": 1099.90,
+      "imagem": "https://cdn.awsli.com.br/800x800/2489/2489685/produto/261969098/16-rnlgeims3q.jpg",
+      "categoria": "raquetes",
+      "avaliacoes": [5, 4, 5]
+    },
+    {
+      "id": 2,
+      "nome": "Raquete Nox ML10 Pro Cup",
+      "descricao": "Modelo usado por Miguel Lamperti. Equilíbrio entre controle e potência.",
+      "preco": 949.90,
+      "imagem": "https://cdn.awsli.com.br/800x800/2489/2489685/produto/361156985/8-3b7bmzbau9.jpg",
+      "categoria": "raquetes",
+      "avaliacoes": [4, 4, 5]
+    },
+    {
+      "id": 3,
+      "nome": "Bolas Head Padel Pro",
+      "descricao": "Bolas oficiais de torneio. Alta durabilidade e desempenho.",
+      "preco": 79.90,
+      "imagem": "https://cdn.awsli.com.br/800x800/2489/2489685/produto/277789300/31-hpflrpxpep.jpg",
+      "categoria": "bolas",
+      "avaliacoes": [5, 5, 5]
+    },
+    {
+      "id": 4,
+      "nome": "Camiseta Adidas Padel",
+      "descricao": "Conforto e estilo para suas partidas. Tecido respirável.",
+      "preco": 129.90,
+      "imagem": "https://tse1.mm.bing.net/th/id/OIP.mL1gpWEFV9pec2vUIA5_PAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "categoria": "vestuario",
+      "avaliacoes": [4, 3, 5]
+    },
+    {
+      "id": 5,
+      "nome": "Raquete Adidas Metalbone",
+      "descricao": "Controle e potência com design exclusivo. Carbono aluminizado.",
+      "preco": 1299.90,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_669611-MLB90048245643_082025-O-raquete-de-padel-adidas-metalbone-pro-edt-2025-ale-galan.webp",
+      "categoria": "raquetes",
+      "avaliacoes": [5, 5, 4]
+    },
+    {
+      "id": 6,
+      "nome": "Raquete Babolat Air Viper",
+      "descricao": "Raquete leve e explosiva para jogadores ofensivos.",
+      "preco": 1199.90,
+      "imagem": "https://a-static.mlcdn.com.br/800x560/raquete-de-padel-babolat-air-viper-preta-e-azul/lojaprospin/150118-10000/5b34fe5fee324d344c3a38eba6472a19.jpeg",
+      "categoria": "raquetes",
+      "avaliacoes": [4, 5, 5]
+    },
+    {
+      "id": 7,
+      "nome": "Raquete Wilson Bela Pro",
+      "descricao": "Modelo oficial de Fernando Belasteguín. Potência máxima.",
+      "preco": 1399.90,
+      "imagem": "https://a-static.mlcdn.com.br/800x560/raquete-de-padel-wilson-bela-pro-v2-5-vermelha-preta/nocnocestadosunidos/buybox-cpb0cwb5kfhc/1dd1c8238e5173a5ec4b01b025c0ee49.jpeg",
+      "categoria": "raquetes",
+      "avaliacoes": [5, 5, 5]
+    },
+    {
+      "id": 8,
+      "nome": "Bolas Bullpadel Premium Pro",
+      "descricao": "Indicada para torneios de alto nível.",
+      "preco": 89.90,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_783307-MLU73599601843_122023-O.webp",
+      "categoria": "bolas",
+      "avaliacoes": [4, 5, 5]
+    },
+    {
+      "id": 9,
+      "nome": "Bolas Adidas Tour Padel",
+      "descricao": "Mais durabilidade em quadras rápidas.",
+      "preco": 74.90,
+      "imagem": "https://a-static.mlcdn.com.br/800x560/bola-de-padel-adidas-speed-rx-tubo-com-03-bolas/protenista/bl2xa2u14/c3e4d2b7e592b7d984dcae919a4fed73.jpeg",
+      "categoria": "bolas",
+      "avaliacoes": [3, 4, 4]
+    },
+    {
+      "id": 10,
+      "nome": "Mochila Bullpadel Vertex",
+      "descricao": "Design exclusivo, compartimento térmico.",
+      "preco": 499.90,
+      "imagem": "https://www.zonadepadel.es/17019-zdp_customer/mochila-bullpadel-vertex-ltd-2023.jpg",
+      "categoria": "mochilas",
+      "avaliacoes": [5, 4, 5]
+    },
+    {
+      "id": 11,
+      "nome": "Mochila Adidas Multigame",
+      "descricao": "Espaçosa, ideal para treinos e torneios.",
+      "preco": 399.90,
+      "imagem": "https://a-static.mlcdn.com.br/800x560/mochila-adidas-multigame-3-3-cinza-e-laranja/lojaprospin/bg1ma1u18/54b8df5abac538f3d1ba36d2bb6847b1.jpeg",
+      "categoria": "mochilas",
+      "avaliacoes": [4, 4, 4]
+    },
+    {
+      "id": 12,
+      "nome": "Overgrip Wilson Comfort",
+      "descricao": "Toque macio, ótima absorção de suor.",
+      "preco": 39.90,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_815950-MLB89294431213_082025-O-overgrip-wilson-pro-comfort.webp",
+      "categoria": "grips",
+      "avaliacoes": [4, 5, 5]
+    },
+    {
+      "id": 13,
+      "nome": "Overgrip Head Xtreme Soft",
+      "descricao": "Mais aderência e controle.",
+      "preco": 34.90,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_965777-MLU77550867530_072024-O.webp",
+      "categoria": "grips",
+      "avaliacoes": [5, 4, 4]
+    },
+    {
+      "id": 14,
+      "nome": "Camiseta Bullpadel Training",
+      "descricao": "Secagem rápida, ideal para treinos.",
+      "preco": 99.90,
+      "imagem": "https://www.zonadepadel.es/11827-large_default/camiseta-bullpadel-tayil-negra.jpg",
+      "categoria": "vestuario",
+      "avaliacoes": [3, 4, 5]
+    },
+    {
+      "id": 15,
+      "nome": "Shorts Adidas Club",
+      "descricao": "Conforto e liberdade de movimento.",
+      "preco": 149.90,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_792637-MLB77875611014_072024-O-shorts-adidas-club-tennis-3-listras-preto-e-branco-masculino.webp",
+      "categoria": "vestuario",
+      "avaliacoes": [4, 4, 4]
+    },
+    {
+          "id": 16,
+          "nome": "Saia Adidas Club",
+          "descricao": "Leve, respirável e com short interno para conforto.",
+          "preco": 159.90,
+          "imagem": "https://static.netshoes.com.br/produtos/saia-adidas-3-listras-feminina/58/FBA-7167-058/FBA-7167-058_zoom1.jpg?ts=1753291430&ims=1088x",
+          "categoria": "vestuario",
+          "avaliacoes": [4, 5, 4]
+        },
+        {
+          "id": 17,
+          "nome": "Tênis Asics Gel Padel",
+          "descricao": "Amortecimento em gel e excelente tração em quadras de padel.",
+          "preco": 499.90,
+          "imagem": "https://static.netshoes.com.br/produtos/tenis-asics-gel-resolution-x-padel-feminino/08/SG4-013A-008/SG4-013A-008_zoom1.jpg?ts=1749654366&ims=1088x",
+          "categoria": "calcados",
+          "avaliacoes": [5, 5, 4]
+        },
+        {
+          "id": 18,
+          "nome": "Tênis Adidas CourtJam",
+          "descricao": "Modelo leve, ideal para agilidade nas partidas.",
+          "preco": 429.90,
+          "imagem": "https://http2.mlstatic.com/D_NQ_NP_674814-MLA83656718765_042025-O.webp",
+          "categoria": "calcados",
+          "avaliacoes": [4, 4, 5]
+        },
+        {
+          "id": 19,
+          "nome": "Tênis Wilson Rush Pro",
+          "descricao": "Conforto e estabilidade em movimentos laterais.",
+          "preco": 549.90,
+          "imagem": "https://a-static.mlcdn.com.br/800x560/tenis-wilson-rush-pro-ace-preto-azul-e-branco/lojaprospin/wrs330090-38/ae9b379e6f18892646ec0a5b719edfc6.jpeg",
+          "categoria": "calcados",
+          "avaliacoes": [5, 4, 5]
+        },
+        {
+          "id": 20,
+          "nome": "Meias Bullpadel Pack 3",
+          "descricao": "Maciez e proteção contra impactos.",
+          "preco": 49.90,
+          "imagem": "https://www.padelnuestro.com/media/catalog/product/1/1/111029_pack_2_calcetines_bullpadel_bp2412_1500x1500_43d2.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:",
+          "categoria": "vestuario",
+          "avaliacoes": [4, 4, 4]
+        },
+        {
+          "id": 21,
+          "nome": "Boné Adidas Padel",
+          "descricao": "Proteção solar com design esportivo.",
+          "preco": 89.90,
+          "imagem": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/c6de9eac868d4ffbba2bad5e48129e08_9366/Bone_3_Panel_CLIMACOOL_Preto_JG5859_01_00_standard.jpg",
+          "categoria": "acessorios",
+          "avaliacoes": [3, 4, 5]
+        },
+        {
+          "id": 22,
+          "nome": "Viseira Head Performance",
+          "descricao": "Leve e respirável, ideal para dias ensolarados.",
+          "preco": 69.90,
+          "imagem": "https://erakiety.com/eng_pl_Head-Performance-Visor-Black-23110_1.jpg",
+          "categoria": "acessorios",
+          "avaliacoes": [4, 4, 4]
+        },
+        {
+          "id": 23,
+          "nome": "Pulseira Suporte Elástico",
+          "descricao": "Proteção para punho e absorção de suor.",
+          "preco": 39.90,
+          "imagem": "https://ae-pic-a1.aliexpress-media.com/kf/S20835c9197ae41949ce533a3138d8fe0g.jpg_960x960q75.jpg_.avif",
+          "categoria": "acessorios",
+          "avaliacoes": [5, 5, 4]
+        },
+        {
+          "id": 24,
+          "nome": "Raquete Head Delta Pro",
+          "descricao": "Potência extrema para jogadores profissionais.",
+          "preco": 1349.90,
+          "imagem": "https://tse2.mm.bing.net/th/id/OIP.5Br51-Oejpy90jDqg5TQdAAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+          "categoria": "raquetes",
+          "avaliacoes": [5, 4, 5]
+        },
+        {
+          "id": 25,
+          "nome": "Raquete Dunlop Galactica",
+          "descricao": "Equilíbrio entre controle e potência. Carbono japonês premium.",
+          "preco": 1149.90,
+          "imagem": "https://tse1.mm.bing.net/th/id/OIP.sMr_xGTxRoHNpy6dd7x-EwAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+          "categoria": "raquetes",
+          "avaliacoes": [4, 4, 4]
+        },
+        {
+          "id": 26,
+          "nome": "Raquete StarVie Raptor",
+          "descricao": "Controle e spin, usada por Franco Stupaczuk.",
+          "preco": 1249.90,
+          "imagem": "https://tse4.mm.bing.net/th/id/OIP._KILnD3hIhxAE38aVS6h8wHaIp?r=0&w=600&h=700&rs=1&pid=ImgDetMain&o=7&rm=3",
+          "categoria": "raquetes",
+          "avaliacoes": [5, 5, 5]
+        },
+        {
+          "id": 27,
+          "nome": "Mochila Wilson Super Tour",
+          "descricao": "Grande capacidade com compartimentos separados.",
+          "preco": 599.90,
+          "imagem": "https://http2.mlstatic.com/D_NQ_NP_732405-MLU74861617705_032024-O.webp",
+          "categoria": "mochilas",
+          "avaliacoes": [4, 5, 4]
+        },
+        {
+          "id": 28,
+          "nome": "Bolsa Bullpadel Avantline",
+          "descricao": "Com compartimento térmico e alças reforçadas.",
+          "preco": 449.90,
+          "imagem": "https://tse4.mm.bing.net/th/id/OIP.6JhP5ZnafinFLxrLyo0-6gHaI4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+          "categoria": "mochilas",
+          "avaliacoes": [3, 4, 5]
+        },
+        {
+          "id": 29,
+          "nome": "Bolsa Nox Thermo",
+          "descricao": "Espaço para duas raquetes e acessórios.",
+          "preco": 429.90,
+          "imagem": "https://tse3.mm.bing.net/th/id/OIP.GEI0ztrvZ3hNqYjeUsRSAwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+          "categoria": "mochilas",
+          "avaliacoes": [4, 4, 4]
+        },
+        {
+          "id": 30,
+          "nome": "Óculos Esportivos Oakley",
+          "descricao": "Proteção UV e alta durabilidade para jogos ao ar livre.",
+          "preco": 699.90,
+          "imagem": "https://th.bing.com/th?id=OPHS.huduTqjsr5Z%2b5w474C474&w=592&h=550&o=5&pid=21.1",
+          "categoria": "acessorios",
+          "avaliacoes": [5, 4, 5]
+        },
+        {
+            "id": 31,
+            "nome": "Raquete Adidas Metalbone",
+            "descricao": "Raquete de potência com tecnologia de peso ajustável.",
+            "preco": 1399.90,
+            "imagem": "https://assets.adidas.com/images/w_940,f_auto,q_auto/bb842cd4619e41998ea9af66009e82c5_9366/GC6247_01_standard.jpg",
+            "categoria": "raquetes",
+            "avaliacoes": [5, 5, 4]
+          },
+          {
+            "id": 32,
+            "nome": "Raquete Siux Diablo",
+            "descricao": "Controle e potência equilibrados, carbono de alta resistência.",
+            "preco": 1299.90,
+            "imagem": "https://images.tcdn.com.br/img/img_prod/1343215/raquete_de_padel_siux_diablo_revolution_3_pro_2024_159_2_b6330c851c41d87266346129251fbdda.jpg",
+            "categoria": "raquetes",
+            "avaliacoes": [4, 5, 5]
+          },
+          {
+            "id": 33,
+            "nome": "Camiseta Nike Dri-FIT",
+            "descricao": "Tecnologia que mantém o corpo seco em jogos intensos.",
+            "preco": 139.90,
+            "imagem": "https://static.netshoes.com.br/produtos/camiseta-nike-legend-20-masculina/06/D12-2415-006/D12-2415-006_zoom1.jpg?ts=1694402470&ims=1088x",
+            "categoria": "vestuario",
+            "avaliacoes": [4, 4, 5]
+          },
+          {
+            "id": 34,
+            "nome": "Shorts Head Club",
+            "descricao": "Conforto e mobilidade com bolsos laterais.",
+            "preco": 119.90,
+            "imagem": "https://tse4.mm.bing.net/th/id/OIP.JGSki5yOjTZj5-b7_aSJSQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "categoria": "vestuario",
+            "avaliacoes": [5, 4, 4]
+          },
+          {
+            "id": 35,
+            "nome": "Vestido Nike Court",
+            "descricao": "Design moderno, ajuste perfeito e tecido respirável.",
+            "preco": 229.90,
+            "imagem": "https://imgnike-a.akamaihd.net/360x360/06236351A1.jpg",
+            "categoria": "vestuario",
+            "avaliacoes": [5, 5, 4]
+          },
+          {
+            "id": 36,
+            "nome": "Tênis Mizuno Wave Exceed",
+            "descricao": "Modelo leve e responsivo, ideal para agilidade.",
+            "preco": 549.90,
+            "imagem": "https://t-static.dafiti.com.br/JbdQRHbLvJnYs4r8my7ssjGe4Ts=/fit-in/430x623/static.dafiti.com.br/p/mizuno-t%C3%AAnis-de-tennis-mizuno-wave-exceed-tour-6-clay-court-1078-29675641-1-zoom.jpg",
+            "categoria": "calcados",
+            "avaliacoes": [4, 5, 5]
+          },
+          {
+            "id": 37,
+            "nome": "Tênis Babolat Jet Mach",
+            "descricao": "Estabilidade e durabilidade para jogos longos.",
+            "preco": 579.90,
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_920074-MLB77677778634_072024-O-tnis-babolat-jet-mach-3-masculino-branco-e-azul.webp",
+            "categoria": "calcados",
+            "avaliacoes": [5, 4, 5]
+          },
+          {
+            "id": 38,
+            "nome": "Tênis Nike Air Zoom GP Turbo",
+            "descricao": "Amortecimento responsivo e design moderno.",
+            "preco": 699.90,
+            "imagem": "https://imgnike-a.akamaihd.net/360x360/058454NDA1.jpg",
+            "categoria": "calcados",
+            "avaliacoes": [5, 5, 4]
+          },
+          {
+            "id": 39,
+            "nome": "Garrafa Térmica Adidas",
+            "descricao": "Mantém líquidos frios por até 12 horas.",
+            "preco": 99.90,
+            "imagem": "https://static.netshoes.com.br/produtos/garrafa-termica-adidas-aco-750-ml/06/3ZP-8657-006/3ZP-8657-006_zoom1.jpg?ts=1693019143&ims=1088x",
+            "categoria": "acessorios",
+            "avaliacoes": [4, 4, 5]
+          },
+          {
+            "id": 40,
+            "nome": "Toalha Esportiva Wilson",
+            "descricao": "Absorção rápida e tamanho compacto.",
+            "preco": 59.90,
+            "imagem": "https://tse1.mm.bing.net/th/id/OIP.CkzdLI6sNXkIP2fkIfBidwAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "categoria": "acessorios",
+            "avaliacoes": [3, 5, 4]
+          },
+          {
+            "id": 41,
+            "nome": "Protetor de Raquete Bullpadel",
+            "descricao": "Protege a borda da raquete contra impactos.",
+            "preco": 39.90,
+            "imagem": "https://tse3.mm.bing.net/th/id/OIP.u0WPk2gWNqlGdav5daoLbQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "categoria": "acessorios",
+            "avaliacoes": [5, 5, 5]
+          },
+          {
+            "id": 42,
+            "nome": "Overgrip Wilson Pro",
+            "descricao": "Conforto extra e absorção de suor.",
+            "preco": 34.90,
+            "imagem": "https://http2.mlstatic.com/D_NQ_NP_744633-MLB87573139440_072025-O-overgrip-wilson-pro-perforated.webp",
+            "categoria": "acessorios",
+            "avaliacoes": [4, 4, 4]
+          },
+          {
+            "id": 43,
+            "nome": "Raquete Vibora Black Mamba",
+            "descricao": "Alta performance para jogadores profissionais.",
+            "preco": 1449.90,
+            "imagem": "https://tse3.mm.bing.net/th/id/OIP.LNE3-Y922I_ik9G-mzikxAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "categoria": "raquetes",
+            "avaliacoes": [5, 5, 4]
+          },
+          {
+            "id": 44,
+            "nome": "Raquete Royal Padel RP 790",
+            "descricao": "Controle absoluto e conforto em cada golpe.",
+            "preco": 1199.90,
+            "imagem": "https://tse4.mm.bing.net/th/id/OIP.M0XNqWeD4ze3a_qRsaF1HQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "categoria": "raquetes",
+            "avaliacoes": [4, 4, 5]
+          },
+          {
+            "id": 45,
+            "nome": "Raquete Kuikma PR990",
+            "descricao": "Desenvolvida pela Decathlon para alta performance.",
+            "preco": 999.90,
+            "imagem": "https://tse1.mm.bing.net/th/id/OIP.qH3nIAovn7D4aaiUu_E8NQHaHa?r=0&w=1000&h=1000&rs=1&pid=ImgDetMain&o=7&rm=3",
+            "categoria": "raquetes",
+            "avaliacoes": [5, 4, 4]
+          }  
+    ]
+  

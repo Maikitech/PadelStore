@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contato - PadelStore</title>
+
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- CSS principal -->
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">
+        <i class="fas fa-tennis-ball me-2"></i>PadelStore
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+              data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav me-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">Início</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="produtos.html">Produtos</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="sobre.html">Sobre</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" href="contato.html">Contato</a>
+            </li>
+          </ul>
+          
+
+        <div class="d-flex align-items-center" id="user-actions">
+          <a href="login.html" class="btn btn-outline-light me-2" id="btn-login">Entrar</a>
+          <a href="login.html" class="btn btn-warning me-2" id="btn-cadastro">Cadastrar</a>
+          <span class="me-2 d-none" id="usuario-logado">Bem-vindo, Usuário!</span>
+          <button class="btn btn-danger d-none" id="btn-logout">Sair</button>
+        </div>
+
+        <div class="d-flex ms-3">
+          <a href="https://wa.me/5511999999999" target="_blank" class="text-white me-3">
+            <i class="fab fa-whatsapp fa-lg"></i>
+          </a>
+          <a href="https://instagram.com/seuinsta" target="_blank" class="text-white me-3">
+            <i class="fab fa-instagram fa-lg"></i>
+          </a>
+          <a href="https://facebook.com/seuface" target="_blank" class="text-white">
+            <i class="fab fa-facebook fa-lg"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <section class="hero-sobre d-flex align-items-center text-white text-center" style="height: 300px;">
+    <div class="container">
+      <h1 class="display-4 fw-bold">Fale Conosco</h1>
+      <p class="lead">Tem dúvidas, sugestões ou precisa de ajuda? Entre em contato com a nossa equipe.</p>
+    </div>
+  </section>
+
+  <!-- Formulário e Mapa -->
+  <section class="sobre-section py-5">
+    <div class="container">
+      <div class="row g-4 align-items-start">
+        <!-- Formulário -->
+        <div class="col-md-6">
+          <div class="card p-4 shadow">
+            <h4 class="fw-bold mb-3">Envie uma mensagem</h4>
+            <form>
+              <div class="mb-3">
+                <label for="nome" class="form-label">Nome</label>
+                <input type="text" id="nome" class="form-control" placeholder="Digite seu nome" required>
+              </div>
+              <div class="mb-3">
+                <label for="email" class="form-label">E-mail</label>
+                <input type="email" id="email" class="form-control" placeholder="Digite seu e-mail" required>
+              </div>
+              <div class="mb-3">
+                <label for="mensagem" class="form-label">Mensagem</label>
+                <textarea id="mensagem" class="form-control" rows="5" placeholder="Escreva sua mensagem..." required></textarea>
+              </div>
+              <button type="submit" class="btn btn-primary w-100">Enviar</button>
+            </form>
+          </div>
+        </div>
+
+        <!-- Mapa -->
+        <div class="col-md-6">
+          <div class="card p-2 shadow">
+            <iframe 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.0613301570223!2d-46.65657112377606!3d-23.56573477879795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59c62d3760a5%3A0x2f0cbe8d8fbc9f7b!2sPaulista!5e0!3m2!1spt-BR!2sbr!4v1691337600000!5m2!1spt-BR!2sbr" 
+              width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy">
+            </iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer text-white pt-5">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4 mb-4">
+          <h5 class="fw-bold">PadelStore</h5>
+          <p>Os melhores artigos de padel para elevar seu jogo. Qualidade, confiança e inovação no esporte.</p>
+        </div>
+
+        <div class="col-md-4 mb-4">
+          <h5 class="fw-bold">Links rápidos</h5>
+          <ul class="list-unstyled">
+            <li><a href="index.html" class="footer-link">Início</a></li>
+            <li><a href="produtos.html" class="footer-link">Produtos</a></li>
+            <li><a href="sobre.html" class="footer-link">Sobre nós</a></li>
+            <li><a href="contato.html" class="footer-link">Contato</a></li>
+          </ul>
+        </div>
+
+        <div class="col-md-4 mb-4">
+          <h5 class="fw-bold">Contato</h5>
+          <p><i class="fas fa-map-marker-alt me-2"></i> Rua Exemplo, 123 - Cidade/UF</p>
+          <p><i class="fas fa-phone me-2"></i> (11) 99999-9999</p>
+          <p><i class="fas fa-envelope me-2"></i> contato@padelstore.com</p>
+          <div class="social-icons mt-3">
+            <a href="#" class="me-3"><i class="fab fa-facebook-f"></i></a>
+            <a href="#" class="me-3"><i class="fab fa-instagram"></i></a>
+            <a href="#"><i class="fab fa-whatsapp"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-bottom text-center py-3">
+      <small>© 2025 PadelStore. Todos os direitos reservados.</small>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="js/user.js"></script>
+</body>
+</html>

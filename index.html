@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PadelStore - Artigos de Padel</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css"> 
+
+</head>
+<body>  
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">
+        <i class="fas fa-tennis-ball me-2"></i>PadelStore
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+              data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav me-auto">
+          <li class="nav-item">
+            <a class="nav-link active" href="index.html">Início</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="produtos.html">Produtos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="sobre.html">Sobre</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contato.html">Contato</a>
+          </li>
+        </ul>
+        
+        <div class="d-flex align-items-center" id="user-actions">
+          <!-- Quando não estiver logado -->
+          <a href="login.html" class="btn btn-outline-light me-2" id="btn-login">Entrar</a>
+          <a href="login.html" class="btn btn-warning me-2" id="btn-cadastro">Cadastrar</a>
+          
+          <!-- Quando estiver logado -->
+          <span class="me-2 d-none" id="usuario-logado">Bem-vindo, Usuário!</span>
+          <button class="btn btn-danger d-none" id="btn-logout">Sair</button>
+        </div>
+        <!-- Ícones Redes Sociais -->
+      <div class="d-flex ms-3">
+        <a href="https://wa.me/5511999999999" target="_blank" class="text-white me-3">
+          <i class="fab fa-whatsapp fa-lg"></i>
+        </a>
+        <a href="https://instagram.com/seuinsta" target="_blank" class="text-white me-3">
+          <i class="fab fa-instagram fa-lg"></i>
+        </a>
+        <a href="https://facebook.com/seuface" target="_blank" class="text-white">
+          <i class="fab fa-facebook fa-lg"></i>
+        </a>
+      </div>
+      </div>
+    </div>
+  </nav>
+  <!-- Conteúdo -->
+  <main class="container mt-5 pt-5">
+    <div class="hero-section bg-light rounded p-5 mb-5 text-center">
+      <h1 class="display-4 fw-bold mb-4">Bem-vindo à PadelStore</h1>
+      <p class="lead mb-4">A melhor loja de artigos de padel do Brasil</p>
+      <a href="produtos.html" class="btn btn-primary btn-lg">Ver Produtos</a>
+    </div>
+
+    <h2 class="text-center mb-4">Categorias em Destaque</h2>
+    <div class="row">
+      <!-- Card Raquetes -->
+      <div class="col-md-4 mb-4">
+        <div class="card h-100">
+          <img src="https://cdn.awsli.com.br/800x800/2489/2489685/produto/261780661/19-rqdbs6ix4x.jpg"
+               class="card-img-center" alt="Raquetes">
+          <div class="card-body">
+            <h5 class="card-title">Raquetes</h5>
+            <p class="card-text">As melhores raquetes para todos os níveis de jogo.</p>
+            <a href="produtos.html?categoria=raquetes" class="btn btn-primary">Ver Raquetes</a>
+          </div>
+        </div>
+      </div>
+      <!-- Card Bolas -->
+      <div class="col-md-4 mb-4">
+        <div class="card h-100">
+          <img src="https://cdn.awsli.com.br/800x800/2489/2489685/produto/277789300/31-hpflrpxpep.jpg"
+               class="card-img-center" alt="Bolas">
+          <div class="card-body">
+            <h5 class="card-title">Bolas</h5>
+            <p class="card-text">Bolas oficiais e de treino para suas partidas.</p>
+            <a href="produtos.html?categoria=bolas" class="btn btn-primary">Ver Bolas</a>
+          </div>
+        </div>
+      </div>
+      <!-- Card Vestuário -->
+      <div class="col-md-4 mb-4">
+        <div class="card h-100">
+          <img src="https://cdn.awsli.com.br/300x300/2489/2489685/produto/278092451/44-38fpbjbj5p.jpg"
+               class="card-img-center" alt="Vestuário">
+          <div class="card-body">
+            <h5 class="card-title">Vestuário</h5>
+            <p class="card-text">Roupas e acessórios para homens e mulheres.</p>
+            <a href="produtos.html?categoria=vestuario" class="btn btn-primary">Ver Roupas</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js">
+  </script>
+  <script src="js/main.js"></script> 
+  <script src="js/user.js"></script> 
+  <script src="js/products.js"></script> 
+  
+  <footer class="footer text-white py-5">
+    <div class="container">
+      <div class="row">
+        <!-- Coluna 1 footer -->
+        <div class="col-md-4 mb-4">
+          <h5 class="fw-bold">PadelStore</h5>
+          <p>Os melhores artigos de padel para elevar seu jogo. Qualidade, confiança e inovação no esporte.</p>
+        </div>
+  
+        <!-- Coluna 2 footer -->
+        <div class="col-md-4 mb-4">
+          <h5 class="fw-bold">Links rápidos</h5>
+          <ul class="list-unstyled">
+            <li><a href="index.html" class="footer-link">Início</a></li>
+            <li><a href="produtos.html" class="footer-link">Produtos</a></li>
+            <li><a href="sobre.html" class="footer-link">Sobre nós</a></li>
+            <li><a href="contato.index" class="footer-link">Contato</a></li>
+          </ul>
+        </div>
+  
+        <!-- Coluna 3 footer -->
+        <div class="col-md-4 mb-4">
+          <h5 class="fw-bold">Contato</h5>
+          <p><i class="fas fa-map-marker-alt me-2"></i> Rua Exemplo, 123 - Cidade/UF</p>
+          <p><i class="fas fa-phone me-2"></i> (11) 99999-9999</p>
+          <p><i class="fas fa-envelope me-2"></i> contato@padelstore.com</p>
+          <div class="social-icons mt-3">
+            <a href="#" class="me-3"><i class="fab fa-facebook-f"></i></a>
+            <a href="#" class="me-3"><i class="fab fa-instagram"></i></a>
+            <a href="#"><i class="fab fa-whatsapp"></i></a>
+          </div>
+        </div>
+      </div>
+  
+      <div class="text-center mt-4">
+        <small>© 2025 PadelStore. Todos os direitos reservados.</small>
+      </div>
+    </div>
+  </footer>
+  
+</body>
+</html>
